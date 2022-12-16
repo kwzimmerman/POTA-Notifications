@@ -1,0 +1,9 @@
+activator,frequency,Band,mode,reference,locationDesc
+*,*,*,FT8,*,US-RI
+*,*,*,FT8,*,US-LA
+*,*,*,FT8,*,US-WA
+*,*,*,*,K-5421,*
+*,*,*,FT8,*,US-AK
+*,*,*,FT8,*,US-NV
+K7CAR,*,*,FT8,*,*
+*,*,80,FT8,*,*
